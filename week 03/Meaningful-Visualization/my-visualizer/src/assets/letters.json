@@ -1,0 +1,1410 @@
+[
+ {
+  "letter_num":1,
+  "from":"Hassan muhammad Adam",
+  "to":"aisha muhammad adam",
+  "date":"8\/3\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":2,
+  "from":"sadiq",
+  "to":"Hauwau",
+  "date":"8\/4\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":3,
+  "from":"mubarak",
+  "to":"umar",
+  "date":"8\/4\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":4,
+  "from":"zayyad",
+  "to":"faisal",
+  "date":"8\/5\/17**",
+  "location":"kaduna",
+  "notes":null
+ },
+ {
+  "letter_num":5,
+  "from":"Zainab",
+  "to":"umma",
+  "date":"8\/7\/17**",
+  "location":"kano",
+  "notes":null
+ },
+ {
+  "letter_num":6,
+  "from":"Auwal",
+  "to":"daddy",
+  "date":"8\/9\/17**",
+  "location":"kano",
+  "notes":null
+ },
+ {
+  "letter_num":7,
+  "from":"aliyu",
+  "to":"Muhammad ",
+  "date":"8\/7\/17**",
+  "location":"kano",
+  "notes":null
+ },
+ {
+  "letter_num":8,
+  "from":"Usman",
+  "to":"Sani Abdullahi",
+  "date":"8\/9\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":9,
+  "from":"Aisha Sani",
+  "to":"Umar Siraj",
+  "date":"8\/11\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":10,
+  "from":"Muhammad Ibrahim ",
+  "to":"Usman",
+  "date":"8\/12\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":11,
+  "from":"Mahmud Musa",
+  "to":"Zainab Ibrahim",
+  "date":"8\/13\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":12,
+  "from":"Fatima, Ibrahim",
+  "to":"Maryam Ibrahim",
+  "date":"8\/13\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":13,
+  "from":"Amina Ibrahim",
+  "to":"Jamila Ibrahim",
+  "date":"8\/13\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":14,
+  "from":"Umar Siraj",
+  "to":"Rukayya Ibrahim",
+  "date":"8\/14\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":15,
+  "from":"Jamila Ibrahim",
+  "to":"Amina Ibrahim",
+  "date":"8\/15\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":16,
+  "from":"Sani Abdullahi",
+  "to":"Aisha Sani",
+  "date":"8\/19\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":17,
+  "from":"Maryam Ibrahim",
+  "to":"Fatima, Ibrahim",
+  "date":"8\/18\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":18,
+  "from":"Amina Ibrahim",
+  "to":"Nura Abdullahi",
+  "date":"8\/20\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":19,
+  "from":"Rukayya Ibrahim",
+  "to":"Mahmud Musa",
+  "date":"8\/20\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":20,
+  "from":"Nura Abdullahi",
+  "to":"Maryam Ibrahim",
+  "date":"8\/20\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":21,
+  "from":"Jamila Ibrahim",
+  "to":"Amina Ibrahim",
+  "date":"8\/20\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":22,
+  "from":"Aisha Sani",
+  "to":"Ibrahim Isah",
+  "date":"8\/20\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":23,
+  "from":"Yusif Kabir",
+  "to":"Rukayya Ibrahim",
+  "date":"8\/21\/17**",
+  "location":"Adamawa",
+  "notes":"4h am"
+ },
+ {
+  "letter_num":24,
+  "from":"Fatima, Ibrahim",
+  "to":"Zainab Ibrahim",
+  "date":"8\/20\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":25,
+  "from":"Zainab Ibrahim",
+  "to":"Sani Abdullahi",
+  "date":"8\/22\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":26,
+  "from":"Ibrahim Isah",
+  "to":"Aisha Sani",
+  "date":"8\/21\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":27,
+  "from":"Umar Siraj",
+  "to":"Jamila Ibrahim",
+  "date":"8\/23\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":28,
+  "from":"Mahmud Musa",
+  "to":"Muhammad Ibrahim ",
+  "date":"8\/23\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":29,
+  "from":"Usman",
+  "to":"Fatima, Ibrahim",
+  "date":"8\/24\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":30,
+  "from":"Muhammad Ibrahim ",
+  "to":"Nura Abdullahi",
+  "date":"8\/24\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":31,
+  "from":"Umar Siraj",
+  "to":"Umar Siraj",
+  "date":"8\/25\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":32,
+  "from":"Muhammad Ibrahim ",
+  "to":"Yusif Kabir",
+  "date":"8\/24\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":33,
+  "from":"Rukayya Ibrahim",
+  "to":"Usman",
+  "date":"8\/24\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":34,
+  "from":"Sani Abdullahi",
+  "to":"Mahmud Musa",
+  "date":"8\/25\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":35,
+  "from":"Nura Abdullahi",
+  "to":"Sani Abdullahi",
+  "date":"8\/21\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":36,
+  "from":"Jamila Ibrahim",
+  "to":"Ibrahim Isah",
+  "date":"8\/23\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":37,
+  "from":"Aisha Sani",
+  "to":"Maryam Ibrahim",
+  "date":"8\/25\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":38,
+  "from":"Fatima, Ibrahim",
+  "to":"Mahmud Musa",
+  "date":"8\/27\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":39,
+  "from":"Yusif Kabir",
+  "to":"Yusif Kabir",
+  "date":"8\/27\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":40,
+  "from":"Ibrahim Isah",
+  "to":"Jamila Ibrahim",
+  "date":"none",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":41,
+  "from":"Mahmud Musa",
+  "to":"Amina Ibrahim",
+  "date":"8\/26\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":42,
+  "from":"Maryam Ibrahim",
+  "to":"Umar Siraj",
+  "date":"8\/26\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":"40-suite",
+  "from":"Zainab Ibrahim",
+  "to":"Muhammad Ibrahim ",
+  "date":"8\/27\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":43,
+  "from":"Usman",
+  "to":"Zainab Ibrahim",
+  "date":"8\/27\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":44,
+  "from":"Amina Ibrahim",
+  "to":"Rukayya Ibrahim",
+  "date":"8\/28\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":45,
+  "from":"Amina Ibrahim",
+  "to":"Nura Abdullahi",
+  "date":"8\/29\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":46,
+  "from":"Umar Siraj",
+  "to":"Aisha Sani",
+  "date":"8\/29\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":47,
+  "from":"Yusif Kabir",
+  "to":"Usman",
+  "date":"8\/30\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":48,
+  "from":"Mahmud Musa",
+  "to":"Fatima, Ibrahim",
+  "date":"8\/30\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":49,
+  "from":"Jamila Ibrahim",
+  "to":"Umar Siraj",
+  "date":"8\/31\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":50,
+  "from":"Maryam Ibrahim",
+  "to":"Jamila Ibrahim",
+  "date":"9\/1\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":51,
+  "from":"Usman",
+  "to":"Zainab Ibrahim",
+  "date":"9\/2\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":52,
+  "from":"Nura Abdullahi",
+  "to":"Amina Ibrahim",
+  "date":"9\/3\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":53,
+  "from":"Fatima, Ibrahim",
+  "to":"Maryam Ibrahim",
+  "date":"9\/3\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":54,
+  "from":"Sani Abdullahi",
+  "to":"Ibrahim Isah",
+  "date":"9\/4\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":55,
+  "from":"Zainab Ibrahim",
+  "to":"Yusif Kabir",
+  "date":"9\/4\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":56,
+  "from":"Ibrahim Isah",
+  "to":"Rukayya Ibrahim",
+  "date":"9\/5\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":57,
+  "from":"Muhammad Ibrahim ",
+  "to":"Mahmud Musa",
+  "date":"9\/5\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":58,
+  "from":"Rukayya Ibrahim",
+  "to":"Fatima, Ibrahim",
+  "date":"9\/7\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":59,
+  "from":"Aisha Sani",
+  "to":"Nura Abdullahi",
+  "date":"9\/8\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":60,
+  "from":"Umar Siraj",
+  "to":"Muhammad Ibrahim ",
+  "date":"9\/8\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":61,
+  "from":"Muhammad Ibrahim ",
+  "to":"Sani Abdullahi",
+  "date":"9\/7\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":62,
+  "from":"Usman",
+  "to":"Usman",
+  "date":"9\/7\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":63,
+  "from":"Nura Abdullahi",
+  "to":"Aisha Sani",
+  "date":"9\/9\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":64,
+  "from":"Zainab Ibrahim",
+  "to":"Umar Siraj",
+  "date":"9\/9\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":65,
+  "from":"Sani Abdullahi",
+  "to":"Zainab Ibrahim",
+  "date":"9\/9\/17**",
+  "location":"USA",
+  "notes":"letter sent, opened, to Merteuil via Valmont in next letter"
+ },
+ {
+  "letter_num":66,
+  "from":"Rukayya Ibrahim",
+  "to":"Amina Ibrahim",
+  "date":"9\/9\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":67,
+  "from":"Aisha Sani",
+  "to":"Mahmud Musa",
+  "date":"9\/9\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":68,
+  "from":"Ibrahim Isah",
+  "to":"Ibrahim Isah",
+  "date":"9\/10\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":69,
+  "from":"Yusif Kabir",
+  "to":"Sani Abdullahi",
+  "date":"9\/10\/17**",
+  "location":"Lagos",
+  "notes":"letter oopied by Danceny"
+ },
+ {
+  "letter_num":70,
+  "from":"Amina Ibrahim",
+  "to":"Rukayya Ibrahim",
+  "date":"9\/11\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":71,
+  "from":"Mahmud Musa",
+  "to":"Aisha Sani",
+  "date":"9\/13\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":72,
+  "from":"Fatima, Ibrahim",
+  "to":"Muhammad Ibrahim ",
+  "date":"9\/11\/17**",
+  "location":"Yobe",
+  "notes":"sent on the 14th"
+ },
+ {
+  "letter_num":73,
+  "from":"Jamila Ibrahim",
+  "to":"Jamila Ibrahim",
+  "date":"9\/14\/17**",
+  "location":"Borno",
+  "notes":"sent on the 14th in same letter as above"
+ },
+ {
+  "letter_num":74,
+  "from":"Maryam Ibrahim",
+  "to":"Nura Abdullahi",
+  "date":"9\/15\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":75,
+  "from":"Ibrahim Isah",
+  "to":"Maryam Ibrahim",
+  "date":"9\/14\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":76,
+  "from":"Jamila Ibrahim",
+  "to":"Yusif Kabir",
+  "date":"9\/17\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":77,
+  "from":"Yusif Kabir",
+  "to":"Fatima, Ibrahim",
+  "date":"9\/15\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":78,
+  "from":"Umar Siraj",
+  "to":"Usman",
+  "date":"9\/16\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":79,
+  "from":"Usman",
+  "to":"Sani Abdullahi",
+  "date":"9\/18\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":80,
+  "from":"Aisha Sani",
+  "to":"Aisha Sani",
+  "date":"9\/18\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":81,
+  "from":"Mahmud Musa",
+  "to":"Zainab Ibrahim",
+  "date":"9\/20\/17**",
+  "location":"Katsina",
+  "notes":"Vaincre ou perir"
+ },
+ {
+  "letter_num":82,
+  "from":"Muhammad Ibrahim ",
+  "to":"Nura Abdullahi",
+  "date":"9\/21\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":83,
+  "from":"Fatima, Ibrahim",
+  "to":"Amina Ibrahim",
+  "date":"9\/23\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":84,
+  "from":"Rukayya Ibrahim",
+  "to":"Fatima, Ibrahim",
+  "date":"9\/24\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":85,
+  "from":"Maryam Ibrahim",
+  "to":"Umar Siraj",
+  "date":"9\/25\/17**",
+  "location":"Kano",
+  "notes":"au soir"
+ },
+ {
+  "letter_num":86,
+  "from":"Nura Abdullahi",
+  "to":"Rukayya Ibrahim",
+  "date":"9\/25\/17**",
+  "location":"Taraba",
+  "notes":"letter included in previous"
+ },
+ {
+  "letter_num":87,
+  "from":"Sani Abdullahi",
+  "to":"Usman",
+  "date":"9\/26\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":88,
+  "from":"Zainab Ibrahim",
+  "to":"Ibrahim Isah",
+  "date":"9\/26\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":89,
+  "from":"Amina Ibrahim",
+  "to":"Maryam Ibrahim",
+  "date":"9\/26\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":90,
+  "from":"Aisha Sani",
+  "to":"Muhammad Ibrahim ",
+  "date":"9\/27\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":91,
+  "from":"Rukayya Ibrahim",
+  "to":"Jamila Ibrahim",
+  "date":"9\/27\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":92,
+  "from":"Sani Abdullahi",
+  "to":"Yusif Kabir",
+  "date":"9\/27\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":93,
+  "from":"Muhammad Ibrahim ",
+  "to":"Mahmud Musa",
+  "date":"9\/27\/17**",
+  "location":"Taraba",
+  "notes":"attached to preceding letter"
+ },
+ {
+  "letter_num":94,
+  "from":"Jamila Ibrahim",
+  "to":"Jamila Ibrahim",
+  "date":"9\/28\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":95,
+  "from":"Umar Siraj",
+  "to":"Aisha Sani",
+  "date":"9\/28\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":96,
+  "from":"Nura Abdullahi",
+  "to":"Amina Ibrahim",
+  "date":"10\/1\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":97,
+  "from":"Usman",
+  "to":"Nura Abdullahi",
+  "date":"10\/1\/17**",
+  "location":"Saudia",
+  "notes":"seduction of cecile"
+ },
+ {
+  "letter_num":98,
+  "from":"Yusif Kabir",
+  "to":"Sani Abdullahi",
+  "date":"10\/2\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":99,
+  "from":"Mahmud Musa",
+  "to":"Mahmud Musa",
+  "date":"10\/2\/17**",
+  "location":"Sokoto",
+  "notes":"au soir"
+ },
+ {
+  "letter_num":100,
+  "from":"Ibrahim Isah",
+  "to":"Zainab Ibrahim",
+  "date":"10\/3\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":101,
+  "from":"Amina Ibrahim",
+  "to":"Rukayya Ibrahim",
+  "date":"10\/3\/17**",
+  "location":"China",
+  "notes":"attached to preceding letter"
+ },
+ {
+  "letter_num":102,
+  "from":"Maryam Ibrahim",
+  "to":"Maryam Ibrahim",
+  "date":"10\/3\/17**",
+  "location":"Yobe",
+  "notes":"1h in the morning - departure of Tourvel"
+ },
+ {
+  "letter_num":103,
+  "from":"Fatima, Ibrahim",
+  "to":"Usman",
+  "date":"10\/3\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":104,
+  "from":"Zainab Ibrahim",
+  "to":"Umar Siraj",
+  "date":"10\/4\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":105,
+  "from":"Aisha Sani",
+  "to":"Fatima, Ibrahim",
+  "date":"10\/4\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":106,
+  "from":"Nura Abdullahi",
+  "to":"Yusif Kabir",
+  "date":"10\/4\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":107,
+  "from":"Ibrahim Isah",
+  "to":"Ibrahim Isah",
+  "date":"10\/5\/17**",
+  "location":"Kebbi",
+  "notes":"11h pm"
+ },
+ {
+  "letter_num":108,
+  "from":"Amina Ibrahim",
+  "to":"Muhammad Ibrahim ",
+  "date":"10\/5\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":109,
+  "from":"Fatima, Ibrahim",
+  "to":"Amina Ibrahim",
+  "date":"10\/10\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":110,
+  "from":"Maryam Ibrahim",
+  "to":"Muhammad Ibrahim ",
+  "date":"10\/11\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":111,
+  "from":"Usman",
+  "to":"Rukayya Ibrahim",
+  "date":"10\/10\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":112,
+  "from":"Rukayya Ibrahim",
+  "to":"Maryam Ibrahim",
+  "date":"10\/14\/17**",
+  "location":"Abuja",
+  "notes":"dictated, signed Adelaide"
+ },
+ {
+  "letter_num":113,
+  "from":"Zainab Ibrahim",
+  "to":"Zainab Ibrahim",
+  "date":"10\/15\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":114,
+  "from":"Mahmud Musa",
+  "to":"Fatima, Ibrahim",
+  "date":"10\/16\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":115,
+  "from":"Umar Siraj",
+  "to":"Jamila Ibrahim",
+  "date":"10\/19\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":116,
+  "from":"Yusif Kabir",
+  "to":"Ibrahim Isah",
+  "date":"10\/17\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":117,
+  "from":"Jamila Ibrahim",
+  "to":"Yusif Kabir",
+  "date":"10\/18\/17**",
+  "location":"Kano",
+  "notes":"dictated by Valmont"
+ },
+ {
+  "letter_num":118,
+  "from":"Sani Abdullahi",
+  "to":"Sani Abdullahi",
+  "date":"10\/19\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":119,
+  "from":"Muhammad Ibrahim ",
+  "to":"Nura Abdullahi",
+  "date":"10\/20\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":120,
+  "from":"Ibrahim Isah",
+  "to":"Mahmud Musa",
+  "date":"10\/22\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":121,
+  "from":"Zainab Ibrahim",
+  "to":"Aisha Sani",
+  "date":"10\/22\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":122,
+  "from":"Usman",
+  "to":"Usman",
+  "date":"10\/25\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":123,
+  "from":"Umar Siraj",
+  "to":"Umar Siraj",
+  "date":"10\/25\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":124,
+  "from":"Nura Abdullahi",
+  "to":"Zainab Ibrahim",
+  "date":"10\/25\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":125,
+  "from":"Rukayya Ibrahim",
+  "to":"Muhammad Ibrahim ",
+  "date":"10\/29\/17**",
+  "location":"Adamawa",
+  "notes":"success of Valmont w\/ Tourvel"
+ },
+ {
+  "letter_num":126,
+  "from":"Mahmud Musa",
+  "to":"Ibrahim Isah",
+  "date":"10\/30\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":127,
+  "from":"Muhammad Ibrahim ",
+  "to":"Umar Siraj",
+  "date":"10\/31\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":128,
+  "from":"Fatima, Ibrahim",
+  "to":"Aisha Sani",
+  "date":"11\/1\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":129,
+  "from":"Yusif Kabir",
+  "to":"Fatima, Ibrahim",
+  "date":"11\/3\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":130,
+  "from":"Sani Abdullahi",
+  "to":"Mahmud Musa",
+  "date":"11\/4\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":131,
+  "from":"Amina Ibrahim",
+  "to":"Nura Abdullahi",
+  "date":"11\/6\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":132,
+  "from":"Jamila Ibrahim",
+  "to":"Usman",
+  "date":"11\/7\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":133,
+  "from":"Aisha Sani",
+  "to":"Sani Abdullahi",
+  "date":"11\/8\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":134,
+  "from":"Maryam Ibrahim",
+  "to":"Yusif Kabir",
+  "date":"11\/11\/17*",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":135,
+  "from":"Umar Siraj",
+  "to":"Amina Ibrahim",
+  "date":"11\/15\/17**",
+  "location":"China",
+  "notes":"valmont w\/ prostitute"
+ },
+ {
+  "letter_num":136,
+  "from":"Rukayya Ibrahim",
+  "to":"Rukayya Ibrahim",
+  "date":"11\/15\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":137,
+  "from":"Zainab Ibrahim",
+  "to":"Jamila Ibrahim",
+  "date":"11\/15\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":138,
+  "from":"Aisha Sani",
+  "to":"Maryam Ibrahim",
+  "date":"11\/15\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":139,
+  "from":"Nura Abdullahi",
+  "to":"Umar Siraj",
+  "date":"11\/16\/17**",
+  "location":"Adamawa",
+  "notes":"au soir"
+ },
+ {
+  "letter_num":140,
+  "from":"Jamila Ibrahim",
+  "to":"Maryam Ibrahim",
+  "date":"11\/21\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":141,
+  "from":"Usman",
+  "to":"Rukayya Ibrahim",
+  "date":"11\/24\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":142,
+  "from":"Maryam Ibrahim",
+  "to":"Usman",
+  "date":"11\/27\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":143,
+  "from":"Sani Abdullahi",
+  "to":"Nura Abdullahi",
+  "date":"11\/27\/17**",
+  "location":"Saudia",
+  "notes":null
+ },
+ {
+  "letter_num":144,
+  "from":"Muhammad Ibrahim ",
+  "to":"Aisha Sani",
+  "date":"11\/28\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":145,
+  "from":"Yusif Kabir",
+  "to":"Ibrahim Isah",
+  "date":"11\/29\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":146,
+  "from":"Ibrahim Isah",
+  "to":"Jamila Ibrahim",
+  "date":"11\/29\/17**",
+  "location":"Kano",
+  "notes":null
+ },
+ {
+  "letter_num":147,
+  "from":"Mahmud Musa",
+  "to":"Mahmud Musa",
+  "date":"11\/29\/17**",
+  "location":"Lagos",
+  "notes":null
+ },
+ {
+  "letter_num":148,
+  "from":"Amina Ibrahim",
+  "to":"Yusif Kabir",
+  "date":"12\/1\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":149,
+  "from":"Fatima, Ibrahim",
+  "to":"Muhammad Ibrahim ",
+  "date":"12\/2\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":150,
+  "from":"Umar Siraj",
+  "to":"Amina Ibrahim",
+  "date":"12\/3\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":151,
+  "from":"Maryam Ibrahim",
+  "to":"Zainab Ibrahim",
+  "date":"12\/3\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":152,
+  "from":"Jamila Ibrahim",
+  "to":"Sani Abdullahi",
+  "date":"12\/4\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":153,
+  "from":"Aisha Sani",
+  "to":"Fatima, Ibrahim",
+  "date":"12\/4\/17**",
+  "location":"Kebbi",
+  "notes":"at the bottom, mme de M write 'eh bien, la guerre'"
+ },
+ {
+  "letter_num":154,
+  "from":"Fatima, Ibrahim",
+  "to":"Maryam Ibrahim",
+  "date":"12\/5\/17**",
+  "location":"USA",
+  "notes":null
+ },
+ {
+  "letter_num":155,
+  "from":"Sani Abdullahi",
+  "to":"Zainab Ibrahim",
+  "date":"12\/5\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":156,
+  "from":"Rukayya Ibrahim",
+  "to":"Fatima, Ibrahim",
+  "date":"12\/4\/17**",
+  "location":"Borno",
+  "notes":null
+ },
+ {
+  "letter_num":157,
+  "from":"Mahmud Musa",
+  "to":"Usman",
+  "date":"12\/5\/17**",
+  "location":"Yobe",
+  "notes":null
+ },
+ {
+  "letter_num":158,
+  "from":"Yusif Kabir",
+  "to":"Mahmud Musa",
+  "date":"12\/6\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":159,
+  "from":"Usman",
+  "to":"Ibrahim Isah",
+  "date":"12\/6\/17**",
+  "location":"Katsina",
+  "notes":null
+ },
+ {
+  "letter_num":160,
+  "from":"Zainab Ibrahim",
+  "to":"Sani Abdullahi",
+  "date":"12\/6\/17**",
+  "location":"Taraba",
+  "notes":null
+ },
+ {
+  "letter_num":161,
+  "from":"Amina Ibrahim",
+  "to":"Rukayya Ibrahim",
+  "date":"12\/5\/17**",
+  "location":"Lagos",
+  "notes":"dictated to her maid"
+ },
+ {
+  "letter_num":162,
+  "from":"Muhammad Ibrahim ",
+  "to":"Umar Siraj",
+  "date":"12\/6\/17**",
+  "location":"USA",
+  "notes":"duel challenge"
+ },
+ {
+  "letter_num":163,
+  "from":"Nura Abdullahi",
+  "to":"Aisha Sani",
+  "date":"12\/7\/17**",
+  "location":"Kano",
+  "notes":"death of Valmont"
+ },
+ {
+  "letter_num":164,
+  "from":"Ibrahim Isah",
+  "to":"Amina Ibrahim",
+  "date":"12\/8\/17**",
+  "location":"Abuja",
+  "notes":null
+ },
+ {
+  "letter_num":165,
+  "from":"Rukayya Ibrahim",
+  "to":"Yusif Kabir",
+  "date":"12\/9\/17**",
+  "location":"Saudia",
+  "notes":"death of Presidente"
+ },
+ {
+  "letter_num":166,
+  "from":"Maryam Ibrahim",
+  "to":"Jamila Ibrahim",
+  "date":"12\/10\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":167,
+  "from":"Fatima, Ibrahim",
+  "to":"Muhammad Ibrahim ",
+  "date":"12\/10\/17**",
+  "location":"Adamawa",
+  "notes":null
+ },
+ {
+  "letter_num":168,
+  "from":"Zainab Ibrahim",
+  "to":"Nura Abdullahi",
+  "date":"12\/11\/17**",
+  "location":"Sokoto",
+  "notes":null
+ },
+ {
+  "letter_num":169,
+  "from":"Sani Abdullahi",
+  "to":"Fatima, Ibrahim",
+  "date":"12\/12\/17**",
+  "location":"Adamawa",
+  "notes":"revelation of letters"
+ },
+ {
+  "letter_num":170,
+  "from":"Muhammad Ibrahim ",
+  "to":"Yusif Kabir",
+  "date":"12\/13\/17**",
+  "location":"Sokoto",
+  "notes":"plan to send cecile back to convent"
+ },
+ {
+  "letter_num":171,
+  "from":"Usman",
+  "to":"Amina Ibrahim",
+  "date":"12\/13\/17**",
+  "location":"Taraba",
+  "notes":"drop charges"
+ },
+ {
+  "letter_num":172,
+  "from":"Mahmud Musa",
+  "to":"Umar Siraj",
+  "date":"12\/15\/17**",
+  "location":"China",
+  "notes":null
+ },
+ {
+  "letter_num":173,
+  "from":"Yusif Kabir",
+  "to":"Jamila Ibrahim",
+  "date":"12\/18\/17**",
+  "location":"Borno",
+  "notes":"booing, fever of Merteuil"
+ },
+ {
+  "letter_num":174,
+  "from":"Umar Siraj",
+  "to":"Rukayya Ibrahim",
+  "date":"12\/26\/17**",
+  "location":"Kebbi",
+  "notes":null
+ },
+ {
+  "letter_num":175,
+  "from":"Amina Ibrahim",
+  "to":"Zainab Ibrahim",
+  "date":"1\/14\/17**",
+  "location":"Lagos",
+  "notes":"downfall of Merteuil"
+ }
+]
